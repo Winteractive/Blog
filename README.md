@@ -1,5 +1,5 @@
-# Blog
-Tutorials and more
+# Random code
+This is a test example for our blog.
 
 ```cs
 public class Progress : MonoBehaviour

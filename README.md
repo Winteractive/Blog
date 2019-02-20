@@ -35,4 +35,4 @@ public class Progress : MonoBehaviour
     #endregion
 }
 ```
-<p style="text-align: center;"> [![](https://i.imgur.com/YS9xDDr.png)](https://discord.gg/tRP76Br)   [![](https://i.imgur.com/6HVUK4k.jpg)](https://www.patreon.com/) </p>
+[![](https://i.imgur.com/YS9xDDr.png)](https://discord.gg/tRP76Br)   [![](https://i.imgur.com/6HVUK4k.jpg)](https://www.patreon.com/)

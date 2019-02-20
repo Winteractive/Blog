@@ -43,6 +43,3 @@ public class Progress : MonoBehaviour
     <img width="200" height="85" src="https://i.imgur.com/gV0BLdy.png">
   </a>
 </p>
-<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/tRP76Br">
-      <img width="200" height="85" src="https://i.imgur.com/Ou9rYyT.png">
-  </a>

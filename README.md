@@ -36,6 +36,8 @@ public class Progress : MonoBehaviour
 }
 ```
 [![](https://i.imgur.com/YS9xDDr.png)](https://discord.gg/tRP76Br)   [![](https://i.imgur.com/6HVUK4k.jpg)](https://www.patreon.com/)
-<p align="center">
-  <img width="200" height="64" src="https://i.imgur.com/YS9xDDr.png">
+<p align="center"> 
+  <a href="https://discord.gg/tRP76Br">
+    <img width="200" height="64" src="https://i.imgur.com/YS9xDDr.png">
+  </a>
 </p>

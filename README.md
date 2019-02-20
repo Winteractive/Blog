@@ -37,9 +37,9 @@ public class Progress : MonoBehaviour
 ```
 <p align="center"> 
   <a href="https://discord.gg/tRP76Br">
-    <img width="200" height="85" src="https://i.imgur.com/5IA5LTS.png">
+    <img width="200" height="85" src="https://i.imgur.com/Ou9rYyT.png">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.patreon.com/">
-    <img width="200" height="85" src="https://i.imgur.com/Ztt69IJ.png">
+    <img width="200" height="85" src="https://i.imgur.com/gV0BLdy.png">
   </a>
 </p>

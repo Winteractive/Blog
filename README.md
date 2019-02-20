@@ -40,6 +40,6 @@ public class Progress : MonoBehaviour
     <img width="200" height="85" src="https://i.imgur.com/5IA5LTS.png">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.patreon.com/">
-    <img width="200" height="85" src="https://i.imgur.com/IVthDSJ.png">
+    <img width="200" height="85" src="https://i.imgur.com/Ztt69IJ.png">
   </a>
 </p>
